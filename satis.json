@@ -4,7 +4,14 @@
     "repositories": [
         { "type": "vcs", "url": "http://github.com/jelix/jelix" },
         { "type": "vcs", "url": "http://github.com/jelix/jelix-skeleton-app" },
-        { "type": "vcs", "url": "http://github.com/jelix/FakeServerConf" }
+        { "type": "vcs", "url": "http://github.com/jelix/FakeServerConf" },
+        { "type": "vcs", "url": "http://github.com/jelix/tcpdf-module" },
+        { "type": "vcs", "url": "http://github.com/jelix/composer-module-setup" },
+        { "type": "vcs", "url": "http://github.com/jelix/legacy-db-plugins" },
+        { "type": "vcs", "url": "http://github.com/jelix/simpletest-module" },
+        { "type": "vcs", "url": "http://github.com/jelix/jcommunity-module" },
+        { "type": "vcs", "url": "http://github.com/jelix/webservice-helper" },
+        { "type": "vcs", "url": "http://github.com/jelix/buildtools" }
     ],
     "archive": {
         "directory":"dist"
