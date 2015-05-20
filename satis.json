@@ -1,0 +1,14 @@
+{
+    "name": "Jelix packages",
+    "homepage": "http://packages.jelix.org",
+    "repositories": [
+        { "type": "vcs", "url": "http://github.com/jelix/jelix" },
+        { "type": "vcs", "url": "http://github.com/jelix/jelix-skeleton-app" },
+        { "type": "vcs", "url": "http://github.com/jelix/FakeServerConf" }
+    ],
+    "archive": {
+        "directory":"dist"
+    },
+    "require-all": true
+}
+
