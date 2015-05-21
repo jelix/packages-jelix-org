@@ -11,7 +11,8 @@
         { "type": "vcs", "url": "http://github.com/jelix/simpletest-module" },
         { "type": "vcs", "url": "http://github.com/jelix/jcommunity-module" },
         { "type": "vcs", "url": "http://github.com/jelix/webservice-helper" },
-        { "type": "vcs", "url": "http://github.com/jelix/buildtools" }
+        { "type": "vcs", "url": "http://github.com/jelix/buildtools" },
+        { "type": "vcs", "url": "http://github.com/jelix/minify-module" }
     ],
     "archive": {
         "directory":"dist"
