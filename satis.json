@@ -13,7 +13,7 @@
         { "type": "vcs", "url": "http://github.com/jelix/webservice-helper" },
         { "type": "vcs", "url": "http://github.com/jelix/buildtools" },
         { "type": "vcs", "url": "http://github.com/jelix/minify-module" },
-        { "type": "vcs", "url": "http://github.com/jelix/php-redis-module" }
+        { "type": "vcs", "url": "http://github.com/jelix/php-redis-plugin" }
     ],
     "archive": {
         "directory":"dist"
