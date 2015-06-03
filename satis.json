@@ -17,6 +17,7 @@
         { "type": "vcs", "url": "http://github.com/jelix/soap-server-module" },
         { "type": "vcs", "url": "http://github.com/jelix/feeds-module" },
         { "type": "vcs", "url": "http://github.com/jelix/sitemap-module" },
+        { "type": "vcs", "url": "http://github.com/jelix/ldapdao-module" },
         { "type": "vcs", "url": "http://github.com/jelix/castor" },
         { "type": "vcs", "url": "http://github.com/jelix/inifile" },
         { "type": "vcs", "url": "http://github.com/jelix/jhttp" }
