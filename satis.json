@@ -22,7 +22,8 @@
         { "type": "vcs", "url": "http://github.com/jelix/ldapdao-module" },
         { "type": "vcs", "url": "http://github.com/jelix/castor" },
         { "type": "vcs", "url": "http://github.com/jelix/inifile" },
-        { "type": "vcs", "url": "http://github.com/jelix/jhttp" }
+        { "type": "vcs", "url": "http://github.com/jelix/jhttp" },
+        { "type": "vcs", "url": "http://github.com/jelix/file-utilities" }
     ],
     "archive": {
         "directory":"dist"
