@@ -24,7 +24,7 @@
         { "type": "vcs", "url": "https://github.com/jelix/inifile.git" },
         { "type": "vcs", "url": "https://github.com/jelix/jhttp.git" },
         { "type": "vcs", "url": "https://github.com/jelix/file-utilities.git" },
-        { "type": "vcs", "url": "https://github.com/laurentj/typeresolver.git" },
+        { "type": "vcs", "url": "https://github.com/laurentj/TypeResolver.git" },
         { "type": "vcs", "url": "https://github.com/laurentj/jsonmapper.git" }
     ],
     "archive": {
