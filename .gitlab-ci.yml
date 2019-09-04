@@ -1,0 +1,11 @@
+stages:
+  - deploy
+
+deploy:
+  stage: deploy
+  script:
+    - scp satis.json  update.sh  update_all.sh $PACKAGE_JELIX_ORG_SSH:$PACKAGE_JELIX_ORG_DIR
+    - scp web/* $PACKAGE_JELIX_ORG_SSH:$PACKAGE_JELIX_ORG_DIR/web/
+  when: manual
+  only:
+    - master
